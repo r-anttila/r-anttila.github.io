@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Mathematics, University of Oulu, 2025 (expected)
+  * Advisors: Ville Suomala, Antti Käenmäki
 * M.S. in Mathematics, University of Oulu, 2021
   * Master's thesis: On multifractal analysis and local dimensions of measures
 * B.S in Mathematics, University of Oulu, 2020
@@ -22,7 +23,7 @@ Work experience
 * May 2021 - Aug 2021: Trainee
   * Nokia
   * Duties included: Test automation development using Python. Maintenance of existing web APIs, and data parsing, formatting and visualization using the pandas library for python.
-  * Used tools and technologies: Python, Django, Git, Linux, Docker, ElasticSearch
+  * Tools and technologies: Python, Django, Git, Linux, Docker, ElasticSearch
 
 * Sep 2020 - Mar 2021: Teaching Assistant
   * University of Oulu
