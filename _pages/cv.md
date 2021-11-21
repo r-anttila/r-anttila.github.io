@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Mathematics, University of Oulu, 2025 (expected)
+  * Advisors: Ville Suomala, Antti Käenmäki
+* M.S. in Mathematics, University of Oulu, 2021
+  * Master's thesis: On multifractal analysis and local dimensions of measures
+* B.S in Mathematics, University of Oulu, 2020
+  * Bachelor's thesis: Normal numbers
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2021 - Aug 2021: Trainee
+  * Nokia
+  * Duties included: Test automation development using Python. Maintenance of existing web APIs, and data parsing, formatting and visualization using the pandas library for python.
+  * Tools and technologies: Python, Django, Git, Linux, Docker, ElasticSearch
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Sep 2020 - Mar 2021: Teaching Assistant
+  * University of Oulu
+  * Duties included: Teaching exercise classes in courses Introduction to Mathematical Deduction, Functions and Limits, and Integral.
+
+* Jun 2020 - Aug 2020: University Trainee
+  * University of Oulu
+  * Duties included: I participated in in independent research in the Fractal Geometry Research Group at the Department of Mathematical Sciences. The results are [published](https://journals.calstate.edu/pump/article/view/2434).
+  * Suprevisor: Ville Suomala
+
+* Apr 2017 - June 2017, May 2019 - June 2019: Substitute Teacher
+  * Oulainen High School
+  * Duties included: Preparing and teaching lessons in mathematics and physics. In 2017 I taught three full courses in trigonometric functions and integration, thermodynamics, and electromagnetism, and in 2019 I taught three weeks of lessons in thermodynamics and geometry. I also prepared and graded the exams.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
