@@ -38,6 +38,26 @@ Work experience
   * Oulainen High School
   * Duties included: Preparing and teaching lessons in mathematics and physics. In 2017 I taught three full courses in trigonometric functions and integration, thermodynamics, and electromagnetism, and in 2019 I taught three weeks of lessons in thermodynamics and geometry. I also prepared and graded the exams.
 
+Teaching
+======
+I have been a teaching assistant in the following courses at the University of Oulu during my undergraduate and doctoral studies.
+* Linear algebra (802320A), Spring 2022
+* Algebraic structures (802355A), Fall 2021
+* Integral (800318A), Spring 2021
+* Introduction to Mathematical Deduction (802151P), Fall 2020
+* Functions and Limits (800119P), Fall 2020
+* Matrices and Optimization for Economists (802160P), Spring 2019
+* Mathematics for Economists (802158P), Spring 2019
+
+Grants
+======
+
+### Magnus Ehrnooth foundation 2022
+  Doctoral training grant (24 000€)
+
+### UniOGS travel grant 2022
+  A travel grant (1000€) for the conference <i>Fractals and Related Fields IV</i>.
+
 Publications
 ======
   <ul>{% for post in site.publications %}
