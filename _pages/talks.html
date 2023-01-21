@@ -15,17 +15,22 @@ author_profile: true
   You can also find a list of the conferences I have attended at the bottom of the page.
 </p>
 
-<h2>Upcoming</h2>
-{% for post in site.upcomingtalks %}
+<h2>Upcoming Talks</h2>
+{% for post in site.upcomingtalks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
-<h2>Talks</h2>
+<h2>Previous Talks</h2>
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
 <h2>Posters</h2>
 {% for post in site.posters reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2>Conferences</h2>
+{% for post in site.conferences reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
