@@ -41,8 +41,9 @@ Work experience
 Teaching
 ======
 I have been a teaching assistant in the following courses at the University of Oulu during my undergraduate and doctoral studies.
+* Functions and Approximation (802102P), Spring 2023
+* Algebraic structures (802355A), Fall 2021, Fall 2022
 * Linear algebra (802320A), Spring 2022
-* Algebraic structures (802355A), Fall 2021
 * Integral (800318A), Spring 2021
 * Introduction to Mathematical Deduction (802151P), Fall 2020
 * Functions and Limits (800119P), Fall 2020
@@ -61,6 +62,9 @@ Grants
 Publications
 ======
   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  <ul>{% for post in site.undergrad %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
