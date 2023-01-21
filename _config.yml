@@ -181,10 +181,22 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  preprints:
+    output: true
+    permalink: /:collection/:path/
+  undergrad:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  upcomingtalks:
+    output: true
+    permalink: /:collection/:path/
+  posters:
     output: true
     permalink: /:collection/:path/
 

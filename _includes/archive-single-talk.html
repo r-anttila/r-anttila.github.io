@@ -25,18 +25,20 @@
           alt="">
       </div>
     {% endif %}
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% if post.collection == 'talks' %}
+      <p>{{ forloop.rindex }}. <b>{{ title }}</b>
+      <br>{% if post.date %}{{ post.date | date: '%B %d, %Y' }}, {{ post.venue }},  {{post.location}}{% endif %}
+      <br>{% if post.type %}{{post.type}} {% endif %} {% if post.slides %}, <a href=" {{ post.slides }} ">Slides</a> {% endif %}</p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.collection == 'posters' %}
+      <p>{{ forloop.rindex }}. <b>{{ title }}</b>
+      <br>{% if post.date %}{{ post.date | date: '%B %d, %Y' }}, {{ post.venue }},  {{post.location}}{% endif %}
+      <br>{% if post.pdf %}<a href=" {{ post.pdf }} ">Poster</a> {% endif %}</p>
+    {% endif %}
+    {% if post.collection == 'upcomingtalks' %}
+      <p>{{ forloop.rindex }}. <b>{{ title }}</b>
+      <br>{% if post.date %}{{ post.date | date: '%B %d, %Y' }}, {{ post.venue }},  {{post.location}}{% endif %}
+      <br>{% if post.type %}{{post.type}} {% endif %}</p>
+    {% endif %}
   </article>
 </div>
