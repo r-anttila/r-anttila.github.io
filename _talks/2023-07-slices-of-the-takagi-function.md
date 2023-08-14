@@ -6,4 +6,5 @@ permalink: /talks/2023-05-slices-of-the-takagi-function
 venue: "Fractal Geometry workshop"
 date: 2023-07-04
 location: "ICMS, Bayes Centre, Edinburgh, Scotland"
+slides: '../files/takagi-edinburgh-july-2023.pdf'
 ---
