@@ -1,5 +1,5 @@
 ---
-title: "The AGENT-Forum"
+title: "AGENT Forum"
 collection: conferences
 permalink: /conference/2021-AGENT-forum
 startdate: 2021-10-27

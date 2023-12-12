@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p>Here is a list of all the talks I have given and posters I have presented, as well as a list of my upcoming talks.
-  You can also find a list of the conferences I have attended at the bottom of the page. At the bottom of the page you can find my past and future travel.
+You can also find a list of the conferences I have attended and my past and future travel at the bottom of the page.
 </p>
 
 {% if site.upcomingtalks.size > 0 %}
@@ -32,7 +32,14 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
-<h2>Travel</h2>
+{% if site.futuretravel.size > 0 %}
+<h2>Future Travel</h2>
+{% for post in site.futuretravel reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+{% endif %}
+
+<h2>Past Travel</h2>
 {% for post in site.conferences reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
