@@ -12,6 +12,11 @@ You can also find my articles on my <a href="{{"https://scholar.google.com/citat
 {% for post in site.preprints reversed %} {% include archive-single-publication.html %} {% endfor %}
 {% endif %}
 
+{% if site.accepted.size > 0 %}
+## Accepted
+{% for post in site.accepted reversed %} {% include archive-single-publication.html %} {% endfor %}
+{% endif %}
+
 ## Published
 {% for post in site.publications reversed %} {% include archive-single-publication.html %} {% endfor %}
 
