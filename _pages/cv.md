@@ -41,6 +41,7 @@ Work experience
 Teaching
 ======
 I have been a teaching assistant in the following courses at the University of Oulu during my undergraduate and doctoral studies.
+* Differential Calculus (800101P), Fall 2023
 * Functions and Approximation (802102P), Spring 2023
 * Algebraic structures (802355A), Fall 2021, Fall 2022
 * Linear algebra (802320A), Spring 2022
@@ -53,6 +54,12 @@ I have been a teaching assistant in the following courses at the University of O
 Grants
 ======
 
+### Vilho, Yrjö and Kalle Väisälä foundation 2023
+  Travel grant for a research visit to the University of St. Andrews (4 400€)
+
+### Magnus Ehrnooth foundation 2023
+  Doctoral training grant (48 000€)
+
 ### Magnus Ehrnooth foundation 2022
   Doctoral training grant (24 000€)
 
@@ -61,6 +68,12 @@ Grants
 
 Publications
 ======
+  <ul>{% for post in site.accepted %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  <ul>{% for post in site.preprints %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
