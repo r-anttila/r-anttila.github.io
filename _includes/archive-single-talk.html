@@ -40,6 +40,11 @@
       <br>{% if post.date %}{{ post.date | date: '%B %d, %Y' }}, {{ post.venue }},  {{post.location}}{% endif %}
       <br>{% if post.type %}{{post.type}} {% endif %}</p>
     {% endif %}
+  {% if post.collection == 'futuretravel' %}
+    <p>{{ forloop.rindex }}. {% if post.link %}<b><a href=" {{ post.link }} ">{{ title }}</a></b> {% else %}<b>{{ title }}</b>{% endif %}
+    <br>{% if post.startdate %}{{ post.startdate | date: '%B %d, %Y' }} - {{ post.enddate | date: '%B %d, %Y' }}, {{ post.venue }},  {{post.location}}{% endif %}
+    <br>{% if post.type %}{{post.type}} {% endif %}</p>
+  {% endif %}
     {% if post.collection == 'conferences' %}
       <p>{{ forloop.rindex }}. {% if post.link %}<b><a href=" {{ post.link }} ">{{ title }}</a></b> {% else %}<b>{{ title }}</b>{% endif %}
       <br>{% if post.startdate %}{{ post.startdate | date: '%B %d, %Y' }} - {{ post.enddate | date: '%B %d, %Y' }}, {{ post.venue }},  {{post.location}}{% endif %}
