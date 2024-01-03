@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my <a href="{{"https://scholar.google.com/citations?user=LrtrSKIAAAAJ&hl=fi&oi=ao"}}">Google Scholar</a> or <a href="{{"https://www.researchgate.net/profile/Roope-Anttila"}}">ResearchGate</a> profiles.
+You can also find my articles on my <a href="{{"https://scholar.google.com/citations?user=LrtrSKIAAAAJ&hl=fi&oi=ao"}}">Google Scholar</a> or <a href="{{"https://www.researchgate.net/profile/Roope-Anttila"}}">ResearchGate</a> profiles. Note that the arXiv and pdf versions may differ from the published ones.
 
 {% if site.preprints.size > 0 %}
 ## Preprints
