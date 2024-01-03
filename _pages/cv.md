@@ -68,13 +68,13 @@ Grants
 
 Publications
 ======
-  <ul>{% for post in site.accepted %}
+  <ul>{% for post in site.accepted reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  <ul>{% for post in site.preprints %}
+  <ul>{% for post in site.preprints reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   <ul>{% for post in site.undergrad %}
