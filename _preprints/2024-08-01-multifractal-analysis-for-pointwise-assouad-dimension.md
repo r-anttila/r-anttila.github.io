@@ -1,7 +1,7 @@
 ---
 title: "Multifractal analysis for the pointwise Assouad dimension of self-similar measures"
 collection: preprints
-permalink: /preprint/pointwise-assouad-dimension-for-measures
+permalink: /preprints/pointwise-assouad-dimension-for-measures
 date: 2024-01-08
 venue: 'Preprint, available at: https://arxiv.org/abs/2401.03953'
 citation: 'R. Anttila, V. Suomala (2024). <i>Multifractal analysis for the pointwise Assouad dimension of self-similar measures</i>. Preprint, available at: https://arxiv.org/abs/2401.03953'
