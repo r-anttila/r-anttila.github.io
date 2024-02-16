@@ -1,7 +1,7 @@
 ---
 title: "Level sets of prevalent Hölder functions"
 collection: preprints
-permalink: /preprints/prevalent-holder-functions
+permalink: /preprint/prevalent-holder-functions
 date: 2024-02-14
 venue: 'Preprint, available at: https://arxiv.org/abs/2402.08520'
 citation: 'R. Anttila, B. Bárány, A. Käenmäki (2024). <i>Level sets of prevalent Hölder functions</i>. Preprint, available at: https://arxiv.org/abs/2402.08520'
