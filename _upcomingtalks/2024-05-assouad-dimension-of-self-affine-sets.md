@@ -1,5 +1,5 @@
 ---
-title: "Assouad dimension of self-affine sets"
+title: "Assouad dimensions of self-affine sets"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-05-15-tbd
