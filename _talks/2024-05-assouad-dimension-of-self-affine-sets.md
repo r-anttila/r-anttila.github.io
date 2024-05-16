@@ -2,8 +2,8 @@
 title: "Assouad dimensions of self-affine sets"
 collection: talks
 type: "Talk"
-permalink: /talks/2024-05-15-tbd
+permalink: /talks/2024-05-16-tbd
 venue: "AGENT Forum"
-date: 2024-05-15
+date: 2024-05-16
 location: "University of Jyväskylä, Finland"
 ---
