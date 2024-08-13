@@ -66,6 +66,11 @@ Grants
 ### UniOGS travel grant 2022
   A travel grant (1000€) for the conference <i>Fractals and Related Fields IV</i>.
 
+Organised Academic Events
+======
+* [Geometry and Fractals under the Midnight Sun](https://midnightsun2024.gitlab.io/): Co-organiser
+
+
 Publications
 ======
   <ul>{% for post in site.accepted reversed %}
