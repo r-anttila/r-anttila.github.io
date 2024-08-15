@@ -45,7 +45,7 @@
         {% elsif post.collection == 'accepted' %}
           <p>{{ forloop.rindex }}. <b>{{title}}</b> {% if post.comment %} {{post.comment}} {% endif %}
           <br>{{ post.authors }}
-          <br>Accepted for <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. {% if post.paperlink %}(<a href=" {{ post.paperlink }} ">Link</a>){% endif %} 
+          <br>Accepted in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. {% if post.paperlink %}(<a href=" {{ post.paperlink }} ">Link</a>){% endif %} 
           <br>{% if post.arxiv %} <a href=" {{ post.arxiv }} ">arXiv</a>{% endif %} {% if post.pdf %}{% if post.arxiv %} / {% endif %} <a href=" {{ post.pdf }} ">pdf</a>{% endif %} </p>
         {% elsif post.collection == 'preprints' %}
           <p>{{ forloop.rindex }}. <b>{{title}}</b>
