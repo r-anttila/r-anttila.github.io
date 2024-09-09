@@ -6,4 +6,5 @@ permalink: /talks/2024-09-pointwise-assouad-dimension-for-measures
 venue: "Geometry of Deterministic and Random Fractals II"
 date: 2024-09-04
 location: "Rényi Institute, Budapest, Hungary"
+slides: "../files/budapest-2024.pdf"
 ---
