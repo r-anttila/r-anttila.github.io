@@ -36,7 +36,7 @@
       <br>{% if post.pdf %}<a href=" {{ post.pdf }} ">Poster</a> {% endif %}</p>
     {% endif %}
     {% if post.collection == 'upcomingtalks' %}
-      <p>{{ forloop.rindex }}. <b>{{ title }}</b>
+      <p>{{ forloop.index }}. <b>{{ title }}</b>
       <br>{% if post.date %}{{ post.date | date: '%B %d, %Y' }}, {{ post.venue }},  {{post.location}}{% endif %}
       <br>{% if post.type %}{{post.type}} {% endif %}</p>
     {% endif %}
