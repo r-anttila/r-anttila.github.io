@@ -18,7 +18,7 @@ You can also find a list of my past and future travel at the bottom of the page.
 
 {% if site.upcomingtalks.size > 0 %}
   <h2>Upcoming Talks</h2>
-  {% for post in site.upcomingtalks reversed %}
+  {% for post in site.upcomingtalks %}
     {% include archive-single-talk.html %}
   {% endfor %}
 {% endif %}
