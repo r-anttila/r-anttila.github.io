@@ -70,10 +70,12 @@ Grants
 ### UniOGS travel grant 2022
   A travel grant (1000€) for the conference <i>Fractals and Related Fields IV</i>.
 
-Organised Academic Events
+Academic Responsibilities
 ======
-* [Geometry and Fractals under the Midnight Sun](https://midnightsun2024.gitlab.io/): Co-organiser
-
+* ERF: Vice President, 2024-
+  * Acting Vice President of ERF, the Early career Research Forum for the PhD students and postdocs of the Research Unit of Mathematical Sciences at the University of Oulu
+* [Geometry and Fractals under the Midnight Sun](https://midnightsun2024.gitlab.io/): Co-organizer, 2024
+  * Co-organized a conference in fractal geometry and related fields at the University of Oulu
 
 Publications
 ======
