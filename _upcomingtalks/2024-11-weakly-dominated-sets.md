@@ -1,5 +1,5 @@
 ---
-title: "Slices and tangents of weakly dominated self-affine sets"
+title: "Slices, projections and tangents of planar self-affine sets"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-09-pointwise-assouad-dimension-for-measures
