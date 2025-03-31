@@ -72,8 +72,8 @@ Grants
 
 Academic Responsibilities
 ======
-* ERF: Vice President, 2024-
-  * Acting Vice President of ERF, the Early career Research Forum for the PhD students and postdocs of the Research Unit of Mathematical Sciences at the University of Oulu
+* ERF: Co-organizer, 2024-present
+  * Co-organizer of ERF, the Early career Research Forum for the PhD students and postdocs of the Research Unit of Mathematical Sciences at the University of Oulu
 * [Geometry and Fractals under the Midnight Sun](https://midnightsun2024.gitlab.io/): Co-organizer, 2024
   * Co-organized a conference in fractal geometry and related fields at the University of Oulu
 
