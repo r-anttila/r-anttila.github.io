@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Mathematics, University of Oulu, 2025 (expected)
+* PhD in Mathematics, University of Oulu, 2025
   * Advisors: Ville Suomala, Antti Käenmäki
-* M.S. in Mathematics, University of Oulu, 2021
+* MSc in Mathematics, University of Oulu, 2021
   * Master's thesis: On multifractal analysis and local dimensions of measures
-* B.S in Mathematics, University of Oulu, 2020
+* BSc in Mathematics, University of Oulu, 2020
   * Bachelor's thesis: Normal numbers
 
 Work experience
