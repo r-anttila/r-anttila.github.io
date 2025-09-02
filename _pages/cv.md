@@ -20,6 +20,14 @@ Education
 
 Work experience
 ======
+* Sep 2025 - present: Post-Doctoral Research Fellow
+  * University of St Andrews
+  * Duties included: Research funded by Professor Jonathan Frasers EPSRC Open Fellowship "A new theory of dimension interpolation".
+
+* Sep 2021 - Aug 2025: Doctoral Researcher
+  * University of Oulu
+  * Duties included: Research towards a doctoral degree in mathematics, Minor teaching responsibilities.
+
 * May 2021 - Aug 2021: Trainee
   * Nokia
   * Duties included: Test automation development using Python. Maintenance of existing web APIs, and data parsing, formatting and visualization using the pandas library for python.
