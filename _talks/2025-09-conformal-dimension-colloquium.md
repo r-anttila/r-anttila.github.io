@@ -1,6 +1,6 @@
 ---
 title: "Conformal dimension and quasisymmetric geometry"
-collection: upcomingtalks
+collection: talks
 type: "Talk"
 permalink: /talks/2025-09-conformal-dimension-colloquium
 venue: "Pure Math Colloquium"
