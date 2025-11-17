@@ -1,5 +1,5 @@
 ---
-title: "Dvoretzky's covering problem for general measures on R"
+title: "Dvoretzky covering problem for general measures on the real line"
 collection: upcomingtalks
 type: "Talk"
 permalink: /talks/2025-11-dvoretzky
