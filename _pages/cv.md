@@ -42,7 +42,7 @@ Work experience
   * Duties included: I participated in in independent research in the Fractal Geometry Research Group at the Department of Mathematical Sciences. The results are [published](https://journals.calstate.edu/pump/article/view/2434).
   * Suprevisor: Ville Suomala
 
-* Apr 2017 - June 2017, May 2019 - June 2019: Substitute Teacher
+* Apr 2017 - Jun 2017, May 2019 - Jun 2019: Substitute Teacher
   * Oulainen High School
   * Duties included: Preparing and teaching lessons in mathematics and physics. In 2017 I taught three full courses in trigonometric functions and integration, thermodynamics, and electromagnetism, and in 2019 I taught three weeks of lessons in thermodynamics and geometry. I also prepared and graded the exams.
 
@@ -80,17 +80,17 @@ Grants
 
 Academic Responsibilities
 ======
-* ERF: Co-organizer, 2024-present
-  * Co-organizer of ERF, the Early career Research Forum for the PhD students and postdocs of the Research Unit of Mathematical Sciences at the University of Oulu
+* ERF: Co-organizer, 2024-2025
+  * Co-organizer of ERF, the Early career Research Forum for the PhD students and postdocs of the Research Units of Mathematical Sciences and Applied and Computational Mathematics at the University of Oulu
 * [Geometry and Fractals under the Midnight Sun](https://midnightsun2024.gitlab.io/): Co-organizer, 2024
   * Co-organized a conference in fractal geometry and related fields at the University of Oulu
 
 Publications
 ======
-  <ul>{% for post in site.accepted reversed %}
+  <ul>{% for post in site.preprints reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  <ul>{% for post in site.preprints reversed %}
+  <ul>{% for post in site.accepted reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   <ul>{% for post in site.publications reversed %}
