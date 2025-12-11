@@ -1,5 +1,5 @@
 ---
-title: "TBA"
+title: "Dvoretzky covering problem for general measures on the real line"
 collection: upcomingtalks
 type: "Talk"
 permalink: /talks/2026-01-dvoretzky
