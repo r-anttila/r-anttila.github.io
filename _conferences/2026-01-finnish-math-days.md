@@ -1,7 +1,7 @@
 ---
 title: "Finnish Mathematical Days"
 collection: conferences
-permalink: /conference/2025-finnish-math-days
+permalink: /conference/2026-finnish-math-days
 startdate: 2026-01-08
 enddate: 2026-01-09
 venue: 'University of Jyväskylä'
