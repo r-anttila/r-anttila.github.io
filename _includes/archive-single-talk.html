@@ -41,11 +41,11 @@
     {% endif %}
   {% if post.collection == 'futuretravel' %}
     <p>{{ forloop.rindex }}. {% if post.link %}<b><a href=" {{ post.link }} ">{{ title }}</a></b> {% else %}<b>{{ title }}</b>{% endif %}
-    <br>{% if post.enddate %}{{ post.startdate | date: '%B %d, %Y' }}{% if post.enddate %} - {{ post.enddate | date: '%B %d, %Y' }}{% endif %}, {{ post.venue }},  {{post.location}}{% endif %}
+    <br>{% if post.startdate %}{{ post.startdate | date: '%B %d, %Y' }}{% if post.enddate %} - {{ post.enddate | date: '%B %d, %Y' }}{% endif %}, {{ post.venue }},  {{post.location}}{% endif %}
   {% endif %}
     {% if post.collection == 'conferences' %}
       <p>{{ forloop.rindex }}. {% if post.link %}<b><a href=" {{ post.link }} ">{{ title }}</a></b> {% else %}<b>{{ title }}</b>{% endif %}
-      <br>{% if post.enddate %}{{ post.startdate | date: '%B %d, %Y' }}{% if post.enddate %} - {{ post.enddate | date: '%B %d, %Y' }}{% endif %}, {{ post.venue }},  {{post.location}}{% endif %}
+      <br>{% if post.startdate %}{{ post.startdate | date: '%B %d, %Y' }}{% if post.enddate %} - {{ post.enddate | date: '%B %d, %Y' }}{% endif %}, {{ post.venue }},  {{post.location}}{% endif %}
     {% endif %}
   </article>
 </div>
