@@ -28,7 +28,7 @@
     {% if post.collection == 'talks' %}
       <p>{{ forloop.rindex }}. <b>{{ title }}</b>
       <br>{% if post.date %}{{ post.date | date: '%B %d, %Y' }}, {{ post.venue }},  {{post.location}}{% endif %}
-      <br>{% if post.slides %}, <a href=" {{ post.slides }} ">Slides</a> {% endif %}</p>
+      <br>{% if post.slides %}<a href=" {{ post.slides }} ">Slides</a> {% endif %}</p>
     {% endif %}
     {% if post.collection == 'posters' %}
       <p>{{ forloop.rindex }}. <b>{{ title }}</b>
