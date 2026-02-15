@@ -1,5 +1,5 @@
 ---
-event: "{{ replace .Name "-" " " | event }}"
+event: "{{ replace .Name "-" " " | title }}"
 start: {{ .Date }}
 end:
 location: ""
