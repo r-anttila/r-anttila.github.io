@@ -1,7 +1,6 @@
 ---
 title: "CV"
 ---
-
 Download: [pdf](/files/cv.pdf)
 
 ## Education
@@ -79,4 +78,3 @@ I have been a teaching assistant in the following courses at the University of O
   * Co-organizer of ERF, the Early career Research Forum for the PhD students and postdocs of the Research Units of Mathematical Sciences and Applied and Computational Mathematics at the University of Oulu
 * [Geometry and Fractals under the Midnight Sun](https://midnightsun2024.gitlab.io/): Co-organizer, 2024
   * Co-organized a conference in fractal geometry and related fields at the University of Oulu
-
