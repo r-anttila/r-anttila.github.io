@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Academic Website</title>
+    <link>http://localhost:1313/talks/</link>
+    <description>Recent content in Talks on Academic Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quasisymmetric geometry of self-affine fractals</title>
+      <link>http://localhost:1313/talks/2026-edinburgh-lms/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2026-edinburgh-lms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dvoretzky covering problem for general measures</title>
+      <link>http://localhost:1313/talks/2026-finnish-mathematical-days/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2026-finnish-mathematical-days/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dvoretzky covering problem for general measures on the real line</title>
+      <link>http://localhost:1313/talks/2025-11-st-andrews-analysis/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2025-11-st-andrews-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conformal dimension and quasisymmetric geometry</title>
+      <link>http://localhost:1313/talks/2025-09-conformal-dimension-colloquium/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2025-09-conformal-dimension-colloquium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slices, projections and tangents of planar self-affine sets</title>
+      <link>http://localhost:1313/talks/2024-11-weakly-dominated-sets/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2024-11-weakly-dominated-sets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slices and tangents of weakly dominated self-affine sets</title>
+      <link>http://localhost:1313/talks/2024-11-weakly-dominated-sets-oulu/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2024-11-weakly-dominated-sets-oulu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pointwise Assouad dimension for measures</title>
+      <link>http://localhost:1313/talks/2024-09-pointwise-assouad-dimension-for-measures/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2024-09-pointwise-assouad-dimension-for-measures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assouad dimensions of self-affine sets</title>
+      <link>http://localhost:1313/talks/2024-05-assouad-dimension-of-self-affine-sets/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2024-05-assouad-dimension-of-self-affine-sets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pointwise Assouad dimension for measures</title>
+      <link>http://localhost:1313/talks/2024-03-19-multifractal-analysis-of-pw-assouad-dimension/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2024-03-19-multifractal-analysis-of-pw-assouad-dimension/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multifractal analysis for the pointwise Assouad dimension of self-similar measures</title>
+      <link>http://localhost:1313/talks/2024-01-19-multifractal-analysis-of-pw-assouad-dimension/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2024-01-19-multifractal-analysis-of-pw-assouad-dimension/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slices of the Takagi function</title>
+      <link>http://localhost:1313/talks/2023-07-slices-of-the-takagi-function/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2023-07-slices-of-the-takagi-function/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slices of the Takagi function and (other) self-affine sets</title>
+      <link>http://localhost:1313/talks/2023-05-slices-of-the-takagi-function/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2023-05-slices-of-the-takagi-function/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assouad dimension of self-affine sets and applications to Takagi functions</title>
+      <link>http://localhost:1313/talks/2023-02-10-assouad-dimension-of-self-affine-sets/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2023-02-10-assouad-dimension-of-self-affine-sets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assouad dimension of invariant measures for place dependent probabilities</title>
+      <link>http://localhost:1313/talks/2022-05-11-assouad-dimension-for-invariant-measures/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2022-05-11-assouad-dimension-for-invariant-measures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pointwise Assouad dimension for measures</title>
+      <link>http://localhost:1313/talks/2022-04-05-pointwise-assouad-dimension-for-measures/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2022-04-05-pointwise-assouad-dimension-for-measures/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

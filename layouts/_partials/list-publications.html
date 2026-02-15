@@ -1,0 +1,7 @@
+<ol>
+  {{ range .ByDate.Reverse }}
+    <li>
+      {{ partial "citation.html" . }}
+    </li>
+  {{ end }}
+</ol>

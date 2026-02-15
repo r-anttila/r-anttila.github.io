@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ .Title }}</title>
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  <meta name="viewport" content="width=device-width">
+  <link rel="icon" href="/img/favicon.png" sizes="any">
+</head>
+<body>
+
+  <header>
+    {{ partial "header" . }}
+  </header>
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer>
+    © 2026 Roope Anttila
+  </footer>
+</body>
+</html>

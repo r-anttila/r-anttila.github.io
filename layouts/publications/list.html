@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<article>
+  <!-- Intro -->
+  {{ $publications := where .Site.RegularPages "Section" "publications" }}
+  {{ $preprints := where $publications ".Params.type" "=" "preprint" }}
+  {{ $accepted := where $publications ".Params.type" "=" "accepted" }}
+  {{ $published := where $publications ".Params.type" "=" "published" }}
+
+  <h1>{{ .Title }}</h1>
+
+  <p>Below you can find a list of my publications. You may also find my publications on my <a href="https://scholar.google.com/citations?user=LrtrSKIAAAAJ&hl=en">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Roope-Anttila">Research Gate</a> pages. To date, I have authored <b>{{ len $publications }}</b> publications{{ if gt (len $publications) (len $published)}}, {{ if gt (len $preprints) 0 }} with <b>{{ len $preprints }}</b> preprints,{{ end }} {{ if gt (len $accepted) 0 }}<b>{{ len $accepted }}</b> accepted for publication,{{ end}} and <b> {{ len $published}}</b> published{{ end }}. Note that the pdf and arXiv versions may differ from the published ones.</p>
+
+  {{ if gt (len $preprints) 0 }}
+  <h2>Preprints</h2>
+   {{ partial "list-publications.html" $preprints }}
+  {{ end }}
+
+  {{ if gt (len $accepted) 0 }}
+  <h2>Accepted</h2>
+    {{ partial "list-publications.html" $accepted }}
+  {{ end }}
+
+  <h2>Published</h2>
+    {{ partial "list-publications.html" $published }}
+
+</article>
+{{ end }}

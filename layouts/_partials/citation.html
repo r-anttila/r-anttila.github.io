@@ -1,0 +1,13 @@
+<strong>{{ .Title }}</strong><br>
+{{ with .Params.authors }}{{ delimit . ", "}}{{ end }}<br>
+{{ if eq .Params.type "published"}}
+	<em>{{ .Params.journal }}</em>, {{ with .Params.volume }}{{ . }},{{ end }} {{ with .Params.year }}({{ . }}), {{ end }}{{ with .Params.number }}no. {{ . }}, {{ end }} {{ with .Params.pages }}{{ . }}{{ end }}<br>
+	<a href="https://doi.org/{{ .Params.doi }}">doi</a>/<a href="https://arxiv.org/abs/{{ .Params.arxiv }}">arXiv</a>{{ with .Params.pdf }}/<a href="/papers/{{ . }}">pdf</a>{{ end }}
+{{ else if eq .Params.type "accepted"}}
+	Accepted for publication in {{ .Params.journal }} ({{ .Params.year }})<br>
+	<a href="https://arxiv.org/abs/{{ .Params.arxiv }}">arXiv</a>{{ with .Params.pdf }}/<a href="/papers/{{ . }}">pdf</a>{{ end }}
+{{ else }}
+	Preprint, available at arXiv:{{ .Params.arxiv }} ({{ .Params.year }})<br>
+	<a href="https://arxiv.org/abs/{{ .Params.arxiv }}">arXiv</a>{{ with .Params.pdf }}/<a href="/papers/{{ . }}">pdf</a>{{ end }}
+{{ end }}
+

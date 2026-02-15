@@ -1,0 +1,16 @@
+{{- $start := time .Params.start -}}
+{{- $end := cond (isset .Params "end") (time .Params.end) nil -}}
+
+{{- if and $end (ne $start $end) -}}
+  {{- if eq ($start.Format "2006") ($end.Format "2006") -}}
+    {{- if eq ($start.Format "January") ($end.Format "January") -}}
+      {{ $start.Format "January 2" }}–{{ $end.Format "2, 2006" }}
+    {{- else -}}
+      {{ $start.Format "January 2" }} – {{ $end.Format "January 2, 2006" }}
+    {{- end -}}
+  {{- else -}}
+    {{ $start.Format "January 2, 2006" }} – {{ $end.Format "January 2, 2006" }}
+  {{- end -}}
+{{- else -}}
+  {{ $start.Format "January 2, 2006" }}
+{{- end -}}

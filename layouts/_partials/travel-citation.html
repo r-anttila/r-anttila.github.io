@@ -1,0 +1,11 @@
+<strong>
+{{ if .Params.link }}
+  <a href="{{ .Params.link }}">{{ .Params.event }}</a>
+{{ else }}
+  {{ .Params.event }}
+{{ end }}
+</strong>
+<br>
+{{ partial "date-range.html" . }}
+<br>
+{{ .Params.location }}

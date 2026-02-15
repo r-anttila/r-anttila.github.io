@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About me on Academic Website</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in About me on Academic Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quasisymmetric geometry of self-affine fractals</title>
+      <link>http://localhost:1313/talks/2026-edinburgh-lms/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2026-edinburgh-lms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dvoretzky covering problem for general measures</title>
+      <link>http://localhost:1313/publications/2026-18-1-dvoretzky/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2026-18-1-dvoretzky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dvoretzky covering problem for general measures</title>
+      <link>http://localhost:1313/talks/2026-finnish-mathematical-days/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2026-finnish-mathematical-days/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multifractal analysis for the pointwise Assouad dimension of self-similar measures</title>
+      <link>http://localhost:1313/publications/2024-08-01-multifractal-analysis-for-pointwise-assouad-dimension/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-08-01-multifractal-analysis-for-pointwise-assouad-dimension/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dvoretzky covering problem for general measures on the real line</title>
+      <link>http://localhost:1313/talks/2025-11-st-andrews-analysis/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2025-11-st-andrews-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conformal dimension and quasisymmetric geometry</title>
+      <link>http://localhost:1313/talks/2025-09-conformal-dimension-colloquium/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2025-09-conformal-dimension-colloquium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quasisymmetric mappings on two variants of fractal percolation</title>
+      <link>http://localhost:1313/publications/2025-9-10-percolation-quasisymmetry/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2025-9-10-percolation-quasisymmetry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fibre stability for dominated self-affine sets</title>
+      <link>http://localhost:1313/publications/2024-10-12-dominated-fibre-stability/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-10-12-dominated-fibre-stability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slices, projections and tangents of planar self-affine sets</title>
+      <link>http://localhost:1313/talks/2024-11-weakly-dominated-sets/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2024-11-weakly-dominated-sets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slices and tangents of weakly dominated self-affine sets</title>
+      <link>http://localhost:1313/talks/2024-11-weakly-dominated-sets-oulu/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2024-11-weakly-dominated-sets-oulu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pointwise Assouad dimension for measures</title>
+      <link>http://localhost:1313/talks/2024-09-pointwise-assouad-dimension-for-measures/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2024-09-pointwise-assouad-dimension-for-measures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assouad dimensions of self-affine sets</title>
+      <link>http://localhost:1313/talks/2024-05-assouad-dimension-of-self-affine-sets/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2024-05-assouad-dimension-of-self-affine-sets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pointwise Assouad dimension for measures</title>
+      <link>http://localhost:1313/talks/2024-03-19-multifractal-analysis-of-pw-assouad-dimension/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2024-03-19-multifractal-analysis-of-pw-assouad-dimension/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Level sets of prevalent Hölder functions</title>
+      <link>http://localhost:1313/publications/2024-14-02-level-sets-of-prevalent-holder-functions/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-14-02-level-sets-of-prevalent-holder-functions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multifractal analysis for the pointwise Assouad dimension of self-similar measures</title>
+      <link>http://localhost:1313/talks/2024-01-19-multifractal-analysis-of-pw-assouad-dimension/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2024-01-19-multifractal-analysis-of-pw-assouad-dimension/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slices of the Takagi function</title>
+      <link>http://localhost:1313/publications/2023-16-05-slices-of-takagi/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-16-05-slices-of-takagi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slices of the Takagi function</title>
+      <link>http://localhost:1313/posters/2023-takagi/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posters/2023-takagi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slices of the Takagi function</title>
+      <link>http://localhost:1313/talks/2023-07-slices-of-the-takagi-function/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2023-07-slices-of-the-takagi-function/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slices of the Takagi function and (other) self-affine sets</title>
+      <link>http://localhost:1313/talks/2023-05-slices-of-the-takagi-function/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2023-05-slices-of-the-takagi-function/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assouad dimension of self-affine sets and applications to Takagi functions</title>
+      <link>http://localhost:1313/talks/2023-02-10-assouad-dimension-of-self-affine-sets/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2023-02-10-assouad-dimension-of-self-affine-sets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pointwise Assouad dimension for measures</title>
+      <link>http://localhost:1313/posters/2022-pw-assouad-farf/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posters/2022-pw-assouad-farf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assouad dimension of invariant measures for place dependent probabilities</title>
+      <link>http://localhost:1313/talks/2022-05-11-assouad-dimension-for-invariant-measures/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2022-05-11-assouad-dimension-for-invariant-measures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pointwise Assouad dimension for measures</title>
+      <link>http://localhost:1313/posters/2022-pw-assouad-bristol/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posters/2022-pw-assouad-bristol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pointwise Assouad dimension for measures</title>
+      <link>http://localhost:1313/talks/2022-04-05-pointwise-assouad-dimension-for-measures/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/2022-04-05-pointwise-assouad-dimension-for-measures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pointwise Assouad dimension for measures</title>
+      <link>http://localhost:1313/publications/2022-29-03-pointwise-assouad-dimension-for-measures/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2022-29-03-pointwise-assouad-dimension-for-measures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2021-agent-forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2021-agent-forum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2022-bristol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2022-bristol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2022-farf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2022-farf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2023-05-simmons-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2023-05-simmons-courses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2023-05-simmons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2023-05-simmons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2023-07-edinburgh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2023-07-edinburgh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2024-02-standrews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2024-02-standrews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2024-05-agent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2024-05-agent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2024-08-budapest-school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2024-08-budapest-school/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2024-09-budapest-conference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2024-09-budapest-conference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2024-11-jyvaskyla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2024-11-jyvaskyla/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2026-01-finnish-math-days/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2026-01-finnish-math-days/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2026-bristol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2026-bristol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2026-edinburgh-lms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2026-edinburgh-lms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2026-farf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2026-farf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/travel/2026-sharp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/2026-sharp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;p&gt;Download: &lt;a href=&#34;http://localhost:1313/files/cv.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;PhD in Mathematics, University of Oulu, 2025&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Advisors: Ville Suomala, Antti Käenmäki&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;MSc in Mathematics, University of Oulu, 2021&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Master&amp;rsquo;s thesis: On multifractal analysis and local dimensions of measures&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;BSc in Mathematics, University of Oulu, 2020&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bachelor&amp;rsquo;s thesis: Normal numbers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;work-experience&#34;&gt;Work experience&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Post-Doctoral Research Fellow&lt;/strong&gt;, University of St Andrews, 07/2025 - present&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Research funded by Professor Jonathan Frasers EPSRC Open Fellowship &amp;ldquo;A new theory of dimension interpolation&amp;rdquo;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Doctoral researcher&lt;/strong&gt;,  University of Oulu, 09/2021 - 08/2025&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

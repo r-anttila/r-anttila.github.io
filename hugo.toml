@@ -1,0 +1,35 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Academic Website'
+buildFuture = true
+
+[params]
+  author = "Roope Anttila"
+  email = "ra216@st-andrews.ac.uk"
+  affiliation = "University of St Andrews"
+  linkedin = "https://www.linkedin.com/in/r-anttila"
+  orcid = "https://orcid.org/0000-0003-2042-2430"
+  researchgate = "https://www.researchgate.net/profile/Roope-Anttila"
+  scholar = "https://scholar.google.com/citations?user=LrtrSKIAAAAJ&hl=en"
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Talks & Travel"
+    url = "/talks-and-travel/"
+    weight = 3
+
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 4

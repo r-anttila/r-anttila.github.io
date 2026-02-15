@@ -1,0 +1,8 @@
+<strong>{{ .Title }}</strong> {{ with .Params.slides }}<a href="/slides/{{ . }}">pdf</a>{{ end }}<br>
+{{ .Date.Format "January 01, 2006" }}<br>
+{{ if .Params.link }}
+  <a href="{{ .Params.link }}">{{ .Params.event }}</a>, 
+{{ else }}
+  {{ .Params.event }},
+{{ end }}
+{{ .Params.location }}

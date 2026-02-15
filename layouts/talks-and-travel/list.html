@@ -1,0 +1,83 @@
+{{ define "main" }}
+
+<article>
+  <!-- Intro -->
+  {{ $today := now }}
+  {{ $talks := where .Site.RegularPages "Section" "talks" }}
+  {{ $upcomingTalks := where $talks "Date" ">=" $today }}
+  {{ $pastTalks := where $talks "Date" "<" $today }}
+
+  {{ $posters := where .Site.RegularPages "Section" "posters" }}
+
+  <h1>{{ .Title }}</h1>
+
+  <p>Below you can find a list of the talks I have given and the posters I have presented, as well as my travel history and plans. To date, I have given <b>{{ len $pastTalks }}</b> talks and presented <b>{{ len $posters }}</b> posters at various venues.</p>
+
+  {{ if gt (len $upcomingTalks) 0 }}
+  <h2>Upcoming Talks</h2>
+    <ol>
+      {{ range $upcomingTalks.ByDate }}
+        <li>
+          {{ partial "talk-citation" . }}
+        </li>
+      {{ end }}
+    </ol>
+  {{ end }}
+
+  <h2>Past Talks</h2>
+  {{ if gt (len $pastTalks) 0 }}
+  <ol reversed>
+    {{ range $pastTalks.ByDate.Reverse }}
+      <li>
+        {{ partial "talk-citation" . }}
+      </li>
+    {{ end }}
+  </ol>
+  {{ else }}
+    <p>No past talks.</p>
+  {{ end }}
+
+
+  {{ if gt (len $posters) 0 }}
+  <h2>Posters</h2>
+    <ol reversed>
+      {{ range $posters.ByDate.Reverse }}
+        <li>
+          {{ partial "poster-citation" . }}
+        </li>
+      {{ end }}
+    </ol>
+  {{ end }}
+
+
+  {{ $travel := where .Site.RegularPages "Section" "travel" }}
+  {{ $futureTravel := where $travel "Params.start" ">=" ($today.Format "2006-01-02") }}
+  {{ $futureTravelSorted := sort $futureTravel "Params.start" "asc" }}
+  {{ $pastTravel := where $travel "Params.start" "<" ($today.Format "2006-01-02") }}
+  {{ $pastTravelSorted := sort $pastTravel "Params.start" "desc" }}
+
+
+  {{ if gt (len $futureTravelSorted) 0 }}
+  <h2>Future Travel</h2>
+    <ol>
+      {{ range $futureTravelSorted }}
+        <li>
+          {{ partial "travel-citation" . }}
+        </li>
+      {{ end }}
+    </ol>
+  {{ end }}
+
+  <h2>Past Travel</h2>
+  {{ if gt (len $pastTravelSorted) 0 }}
+    <ol reversed>
+      {{ range $pastTravelSorted }}
+        <li>
+          {{ partial "travel-citation" . }}
+        </li>
+      {{ end }}
+    </ol>
+  {{ end }}
+
+</article>
+{{ end }}
