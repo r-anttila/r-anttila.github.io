@@ -1,4 +1,4 @@
-<strong>{{ .Title }}</strong> {{ with .Params.slides }}<a href="/slides/{{ . }}">pdf</a>{{ end }}<br>
+<strong>{{ .Title }}</strong> {{ with .Params.file }}<a href="/slides/{{ . }}">poster</a>{{ end }}<br>
 {{ .Date.Format "January 01, 2006" }}<br>
 {{ if .Params.link }}
   <a href="{{ .Params.link }}">{{ .Params.event }}</a>, 
