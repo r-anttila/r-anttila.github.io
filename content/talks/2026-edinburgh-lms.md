@@ -4,6 +4,6 @@ date: 2026-03-02
 event: "LMS Harmonic analysis and PDE network meeting"
 location: "University of Edinburgh, Scotland"
 talk_type: "Invited"   # Colloquium, Seminar, Invited, etc.
-slides: ""
-video: "LMS-Harmonic-Analysis.pdf"
+slides: "LMS-Harmonic-Analysis.pdf"
+video: ""
 ---
