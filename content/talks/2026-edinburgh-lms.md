@@ -5,5 +5,5 @@ event: "LMS Harmonic analysis and PDE network meeting"
 location: "University of Edinburgh, Scotland"
 talk_type: "Invited"   # Colloquium, Seminar, Invited, etc.
 slides: ""
-video: ""
+video: "LMS-Harmonic-Analysis.pdf"
 ---
