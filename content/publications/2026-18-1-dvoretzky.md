@@ -9,7 +9,7 @@ authors:
 journal:
 volume:
 number:
-year: 2025
+year: 2026
 arxiv: '2601.11470'
 doi:
 pdf: 'dvoretzky.pdf'
