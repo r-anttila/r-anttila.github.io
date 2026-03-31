@@ -2,7 +2,7 @@
 
 <article>
   <!-- Intro -->
-  {{ $today := now }}
+  {{ $today := now.Add (time.ParseDuration "24h") }}
   {{ $talks := where .Site.RegularPages "Section" "talks" }}
   {{ $upcomingTalks := where $talks "Date" ">=" $today }}
   {{ $pastTalks := where $talks "Date" "<" $today }}
