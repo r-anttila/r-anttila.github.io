@@ -1,13 +1,13 @@
 ---
 title: "Quasisymmetric mappings on two variants of fractal percolation"
 date: 2025-09-10
-type: "preprint"
+type: "accepted"
 
 authors:
  - "R. Anttila"
  - "S. Eriksson-Bique"
  - "A. Pyörälä"
-journal:
+journal: "To appear in <i>Proc. Am. Math. Soc.<\i>"
 volume:
 number:
 year: 2025
