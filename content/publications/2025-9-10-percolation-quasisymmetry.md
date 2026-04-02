@@ -7,7 +7,7 @@ authors:
  - "R. Anttila"
  - "S. Eriksson-Bique"
  - "A. Pyörälä"
-journal: "To appear in <i>Proc. Am. Math. Soc.<\i>"
+journal: "To appear in <i>Proc. Am. Math. Soc.</i>"
 volume:
 number:
 year: 2025
