@@ -1,8 +1,8 @@
 ---
 title: "TBA"
-event: "Continued Fractions, Fractals, Ergodic theory and Dynamics"
-date: 2026-05-03
-date_tentative: true
+event: "IM PAN Dynamics Seminar"
+date: 2026-05-25
+date_tentative: false
 location: "IMPAN, Warsaw, Poland"
 slides: ""
 video: ""
