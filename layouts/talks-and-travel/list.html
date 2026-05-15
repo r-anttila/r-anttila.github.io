@@ -51,9 +51,9 @@
 
 
   {{ $travel := where .Site.RegularPages "Section" "travel" }}
-  {{ $futureTravel := where $travel "Params.start" ">=" ($today.Format "2006-01-02") }}
+  {{ $futureTravel := where $travel "Params.end" ">=" ($today.Format "2006-01-02") }}
   {{ $futureTravelSorted := sort $futureTravel "Params.start" "asc" }}
-  {{ $pastTravel := where $travel "Params.start" "<" ($today.Format "2006-01-02") }}
+  {{ $pastTravel := where $travel "Params.end" "<" ($today.Format "2006-01-02") }}
   {{ $pastTravelSorted := sort $pastTravel "Params.start" "desc" }}
 
 
