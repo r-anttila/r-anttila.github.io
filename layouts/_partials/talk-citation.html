@@ -1,4 +1,4 @@
-<strong>{{ .Title }}</strong> {{ with .Params.slides }}(<a href="/slides/{{ . }}">slides</a>){{ end }}<br>{{ if .Params.date_tentative }}{{ .Date.Format "January, 2006" }}{{else}}
+<strong>{{ .Title }}</strong> {{ with .Params.slides }}(<a href="/slides/{{ . }}">slides</a>){{ end }}{{ with .Params.video }}(<a href="{{ . }}">video</a>){{ end }}<br>{{ if .Params.date_tentative }}{{ .Date.Format "January, 2006" }}{{else}}
 {{ .Date.Format "02 January, 2006" }}{{end}}<br>
 {{ if .Params.link }}
   <a href="{{ .Params.link }}">{{ .Params.event }}</a>, 

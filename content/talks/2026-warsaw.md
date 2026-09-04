@@ -5,5 +5,5 @@ date: 2026-05-25
 date_tentative: false
 location: "IMPAN, Warsaw, Poland"
 slides: ""
-video: ""
+video: "https://www.youtube.com/watch?v=vMia2KIVzuk"
 ---
