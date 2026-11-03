@@ -9,7 +9,7 @@ volume:
 number: 
 year: 2026
 pages: 
-arxiv: arXiv:2611.03252
+arxiv: "2611.03252"
 doi: 
 pdf: "bm-quasisymmetry.pdf"
 ---
