@@ -11,5 +11,5 @@ year: 2026
 pages: 
 arxiv: arXiv:2611.03252
 doi: 
-pdf: 
+pdf: "bm-quasisymmetry.pdf"
 ---
